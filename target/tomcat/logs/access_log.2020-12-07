@@ -1,6 +1,0 @@
-0:0:0:0:0:0:0:1 - - [07/Dec/2020:00:52:18 +0800] "GET /demo/query?name=lisi HTTP/1.1" 200 - http-bio-8080-exec-2 46
-0:0:0:0:0:0:0:1 - - [07/Dec/2020:00:52:18 +0800] "GET /favicon.ico HTTP/1.1" 200 13 http-bio-8080-exec-3 2
-0:0:0:0:0:0:0:1 - - [07/Dec/2020:00:59:26 +0800] "GET /demo/query?name=lisi HTTP/1.1" 200 - http-bio-8080-exec-6 1
-0:0:0:0:0:0:0:1 - - [07/Dec/2020:00:59:26 +0800] "GET /favicon.ico HTTP/1.1" 200 13 http-bio-8080-exec-7 0
-0:0:0:0:0:0:0:1 - - [07/Dec/2020:01:02:02 +0800] "GET /demo/query?name=lisi HTTP/1.1" 200 4 http-bio-8080-exec-1 42
-0:0:0:0:0:0:0:1 - - [07/Dec/2020:01:02:02 +0800] "GET /favicon.ico HTTP/1.1" 200 13 http-bio-8080-exec-3 0
